@@ -1,0 +1,3 @@
+[submodule "fucking-awesome-python"]
+	path = fucking-awesome-python
+	url = https://github.com/trananhkma/fucking-awesome-python
